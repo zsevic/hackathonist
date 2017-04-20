@@ -19,7 +19,7 @@ The table bellow contains hackathons that have announced their next editions, co
 | [Code Beyond](http://hack.best.rs) | Startit Centar Beograd | 7-11 April 2017 |
 | [FON](http://hakaton.fonis.rs) | FON | 31 March - 1 April 2017 |
 | [Deep Web hackathon: Hacking in the Dark](https://startit.rs/hacking-in-the-dark/) | Startit Centar Beograd | 31 March - 2 April 2017 |
-| [Telenor](https://www.telenor.rs/sr/privatni/servisi/telenor-hakaton) | Telenor |  24-25 February 2017 |
+| [Telenor](https://www.telenor.rs/sr/privatni/servisi/telenor-hakaton) | Telenor (Airport city) |  24-25 February 2017 |
 | [MIT Hacking Medicine](http://hakaton.rs/mit-hacking-medicine/) | Startit Centar Beograd |  27-29 January 2017 |
 
 ### Want to contribute?
