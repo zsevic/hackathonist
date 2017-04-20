@@ -15,6 +15,7 @@ The table bellow contains hackathons that have announced their next editions, co
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [EESTech Challenge](https://eestechchallenge.eestec.net/#/) | Naučno-tehnološki park Beograd | 8-9 April 2017 |
 | [Code Beyond](http://hack.best.rs) | Startit Centar Beograd | 7-11 April 2017 |
 | [FON](http://hakaton.fonis.rs) | FON | 31 March - 1 April 2017 |
 | [Deep Web hackathon: Hacking in the Dark](https://startit.rs/hacking-in-the-dark/) | Startit Centar Beograd | 31 March - 2 April 2017 |
