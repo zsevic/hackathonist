@@ -11,6 +11,7 @@ The table bellow contains hackathons that have announced their next editions, co
 | [Ludum Dare](https://startit.rs/prvi-ludum-gejm-dzem-u-scns/) | Startit Centar Novi Sad | 21-24 April 2017 |
 | [SpaceApps Challenge](https://2017.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 29-30 April 2017 |
 | [MatHackathon](http://mathack.rs) | Startit Centar Beograd | 13-14 May 2017 |
+| [MEU.hackathon](http://hackathon.belgrade-meu.org/) | ICT Hub | 26-28 May 2017 |
 
 ### Past hackathons
 
