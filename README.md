@@ -9,6 +9,7 @@ The table bellow contains hackathons that have announced their next editions, co
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
 | [Connecting Minds](http://www.ngoaktiv.org/srb/news/connecting-minds-hackathon-at-startit-center-belgrade-applications-open-until-may-15) | Startit Centar Beograd | 20-21 May 2017 |
+| [Android & Firebase hackathon](https://www.facebook.com/events/451289448544340/) | Execom | 26-27 May 2017 |
 | [MEU.hackathon](http://hackathon.belgrade-meu.org/) | ICT Hub | 26-28 May 2017 |
 
 ### Past hackathons
