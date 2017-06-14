@@ -8,6 +8,8 @@ The table bellow contains hackathons that have announced their next editions, co
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Data Challenge Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 30 June - 2 July 2017 |
+| [Startit Game Jam](https://itch.io/jam/startit-game-jam) | Startit | 14-16 July 2017 |
 | [Code for cause](https://www.facebook.com/events/1770827369611412/) | Vega IT Sourcing | 8-10 September 2017 |
 
 ### Past hackathons
