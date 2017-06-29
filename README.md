@@ -1,16 +1,9 @@
-# Serbian hackathons
-
-Want to attend a hackathon in Serbia? Here is the most comprehensive list of upcoming and recent Serbian hackathons.
-
 ### Upcoming hackathons
-
-The table bellow contains hackathons that have announced their next editions, complete with website links, locations and time of the event.
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
 | [Data Challenge Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 30 June - 2 July 2017 |
-| [Startit Game Jam](https://itch.io/jam/startit-game-jam) | Startit | 14-16 July 2017 |
-| [Code for cause](https://www.facebook.com/events/1770827369611412/) | Vega IT Sourcing | 8-10 September 2017 |
+| [Letnji hakaton](https://poslovi.infostud.com/hakaton/) | ICT Hub | 15-16 July 2017 |
 
 ### Past hackathons
 
@@ -22,7 +15,6 @@ The table bellow contains hackathons that have announced their next editions, co
 | [MatHackathon](http://mathack.rs) | Startit Centar Beograd | 13-14 May 2017 |
 | [SpaceApps Challenge](https://2017.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 29-30 April 2017 |
 | [CoderDojo Coolest Hackathon](https://goo.gl/forms/bXEWwjVl1aroJNkC3) | CoderDojo Pancevo | 28-30 April 2017 |
-| [Ludum Dare](https://startit.rs/prvi-ludum-gejm-dzem-u-scns/) | Startit Centar Novi Sad | 21-24 April 2017 |
 | [EESTech Challenge](https://eestechchallenge.eestec.net/#/) | Naučno-tehnološki park Beograd | 8-9 April 2017 |
 | [Code Beyond](http://hack.best.rs) | Startit Centar Beograd | 7-11 April 2017 |
 | [Deep Web hackathon: Hacking in the Dark](https://startit.rs/hacking-in-the-dark/) | Startit Centar Beograd | 31 March - 2 April 2017 |
