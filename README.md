@@ -2,13 +2,14 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
-| [Data Challenge Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 30 June - 2 July 2017 |
-| [Letnji hakaton](https://poslovi.infostud.com/hakaton/) | ICT Hub | 15-16 July 2017 |
+| [Blockchain hackathon](https://startit.rs/pravimo-veliki-blockchain-hakaton-u-beogradu-prosiri-vest/) | Startit centar Beograd | 25-27 August 2017 |
 
 ### Past hackathons
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Summer hackathon](https://poslovi.infostud.com/hakaton/) | ICT Hub | 15-16 July 2017 |
+| [Data Challenge Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 30 June - 2 July 2017 |
 | [MEU.hackathon](http://hackathon.belgrade-meu.org/) | ICT Hub | 26-28 May 2017 |
 | [Android & Firebase hackathon](https://www.facebook.com/events/451289448544340/) | Execom | 26-27 May 2017 |
 | [Connecting Minds](http://www.ngoaktiv.org/srb/news/connecting-minds-hackathon-at-startit-center-belgrade-applications-open-until-may-15) | Startit Centar Beograd | 20-21 May 2017 |
