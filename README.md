@@ -2,13 +2,14 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
-| [Code for cause](https://www.vegaitsourcing.rs/media-center/news/2017/06/code-for-cause/code-for-cause/) | Vega IT Sourcing | 8-10 September 2017 |
-| [Hackathon]() | Devtech | 29 September - 1 October 2017 |
+| [DesCon 2017](https://descon.me/2017/) | KC Grad | 30 September - 1 October 2017 |
+| [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 
 ### Past hackathons
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Code for cause](https://www.vegaitsourcing.rs/media-center/news/2017/06/code-for-cause/code-for-cause/) | Vega IT Sourcing | 8-10 September 2017 |
 | [Blockchain hackathon](https://startit.rs/pravimo-veliki-blockchain-hakaton-u-beogradu-prosiri-vest/) | Startit centar Beograd | 25-27 August 2017 |
 | [Summer hackathon](https://poslovi.infostud.com/hakaton/) | ICT Hub | 15-16 July 2017 |
 | [Data Challenge Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 30 June - 2 July 2017 |
