@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [DesCon 2017](https://descon.me/2017/) | KC Grad | 30 September - 1 October 2017 |
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
+| [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
 
 ### Past hackathons
 
