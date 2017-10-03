@@ -2,14 +2,15 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
-| [DesCon 2017](https://descon.me/2017/) | KC Grad | 30 September - 1 October 2017 |
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
+| [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
 
 ### Past hackathons
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [DesCon 2017](https://descon.me/2017/) | KC Grad | 30 September - 1 October 2017 |
 | [Code for cause](https://www.vegaitsourcing.rs/media-center/news/2017/06/code-for-cause/code-for-cause/) | Vega IT Sourcing | 8-10 September 2017 |
 | [Blockchain hackathon](https://startit.rs/pravimo-veliki-blockchain-hakaton-u-beogradu-prosiri-vest/) | Startit centar Beograd | 25-27 August 2017 |
 | [Summer hackathon](https://poslovi.infostud.com/hakaton/) | ICT Hub | 15-16 July 2017 |
