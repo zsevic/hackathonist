@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Virtual hackathon](https://poslovi.infostud.com/vesti/Virtualni-Hakaton-na-Virtuelnim-danima-karijere-i-znanja/53063) | Virtual event | 11-16 October 2017 |
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
 | [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
