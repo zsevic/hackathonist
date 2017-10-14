@@ -6,6 +6,7 @@
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
 | [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
+| [Python Hackathon: Smart Energy Management Challenge](http://info.typhoon-hil.com/typhoon-hil-inc.-invites-you-to-the-first-python-hackathon-to-be-held-in-serbia) | Business Incubator Novi Sad | 4-5 November 2017 |
 
 ### Past hackathons
 
