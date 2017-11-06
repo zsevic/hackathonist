@@ -2,16 +2,17 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
-| [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
-| [SICEF Hackathon](http://sicef.info/hakaton/) | Faculty of Electronic Engineering (Nis) | 3-5 November 2017 |
-| [Python Hackathon: Smart Energy Management Challenge](http://info.typhoon-hil.com/typhoon-hil-inc.-invites-you-to-the-first-python-hackathon-to-be-held-in-serbia) | Business Incubator Novi Sad | 4-5 November 2017 |
 | [5 days on Java](http://www.5dananajavi.com) | Levi9 IT Services | 14-18 November 2017 |
+| [Vip mobile AgTech Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 17-19 November 2017 |
 | [Ticketmaster and Bakson Hackathon](http://bakson.rs/en/hackaton/) | ICT Hub | 24-25 November 2017 |
 
 ### Past hackathons
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Python Hackathon: Smart Energy Management Challenge](http://info.typhoon-hil.com/typhoon-hil-inc.-invites-you-to-the-first-python-hackathon-to-be-held-in-serbia) | Business Incubator Novi Sad | 4-5 November 2017 |
+| [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
+| [SICEF Hackathon](http://sicef.info/hakaton/) | Faculty of Electronic Engineering (Nis) | 3-5 November 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 | [Hacklanje](https://poslovi.infostud.com/vesti/Virtualni-Hakaton-na-Virtuelnim-danima-karijere-i-znanja/53063) | Virtual event | 11-16 October 2017 |
