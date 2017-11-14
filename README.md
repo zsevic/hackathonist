@@ -11,6 +11,7 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Digital Subotica](https://startit.rs/hakaton-digitalna-subotica-u-startit-centru-kreirajmo-digitalna-resenja-za-bolji-grad/) | Startit Centar Subotica | 11-12 November 2017 |
 | [Python Hackathon: Smart Energy Management Challenge](http://info.typhoon-hil.com/typhoon-hil-inc.-invites-you-to-the-first-python-hackathon-to-be-held-in-serbia) | Business Incubator Novi Sad | 4-5 November 2017 |
 | [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/) | Devtech BG office | 3-5 November 2017 |
 | [SICEF Hackathon](http://sicef.info/hakaton/) | Faculty of Electronic Engineering (Nis) | 3-5 November 2017 |
