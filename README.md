@@ -2,12 +2,13 @@
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
-| [Blockathon](https://startit.rs/pravimo-prvi-blockchain-hakaton-u-novom-sadu-prijavite-se-do-24-novembra/) | Startit Centar Novi Sad | 1-3 December 2017 |
+| [Non-formal Edu-hack](https://startit.rs/prvi-non-formal-edu-hack-hakaton-u-novosadskom-startit-centru/) | Startit Centar Novi Sad | 19-21 January 2018 |
 
-### Past hackathons
+### 2017
 
 | Hackathon | Location | Time |
 | --------- | -------- | ---- |
+| [Blockathon](https://startit.rs/pravimo-prvi-blockchain-hakaton-u-novom-sadu-prijavite-se-do-24-novembra/) | Startit Centar Novi Sad | 1-3 December 2017 |
 | [Open API or Die Hackathon](http://bakson.rs/en/hackaton/) | ICT Hub | 24-25 November 2017 |
 | [Vip mobile AgTech Hackathon](http://hackathon.icthub.rs/) | ICT Hub | 17-19 November 2017 |
 | [5 days on Java](http://www.5dananajavi.com) | Levi9 IT Services | 14-18 November 2017 |
