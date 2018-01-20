@@ -38,4 +38,4 @@
 | [Telenor](https://www.telenor.rs/sr/privatni/servisi/telenor-hakaton)* | Telenor (Airport city) |  24-25 February 2017 |
 | [MIT Hacking Medicine](http://hakaton.rs/mit-hacking-medicine/) | Startit Centar Beograd |  27-29 January 2017 |
 
-- \* participated
+\* participated
