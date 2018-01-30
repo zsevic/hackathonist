@@ -1,18 +1,19 @@
 #### Upcoming hackathons
 
-| Hackathon | Location | Time |
+| Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [OrganiCity hackathon](https://startit.rs/januarski-hakaton-i-radionica-na-temu-servisa-i-aplikacija-za-bolji-novi-sad/) | Startit Centar Novi Sad | 27-28 January 2018 |
+| [OrganiCity hackathon #2](https://startit.rs/drugi-organicity-hakaton-servisi-i-aplikacije-za-bolji-novi-sad/) | Startit Centar Novi Sad | 10th February 2018 |
 
 #### Recent hackathons
 
-| Hackathon | Location | Time |
+| Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [OrganiCity hackathon](https://startit.rs/januarski-hakaton-i-radionica-na-temu-servisa-i-aplikacija-za-bolji-novi-sad/) | Startit Centar Novi Sad | 27-28 January 2018 |
 | [Non-formal Edu-hack](https://startit.rs/prvi-non-formal-edu-hack-hakaton-u-novosadskom-startit-centru/) | Startit Centar Novi Sad | 19-21 January 2018 |
 
 #### 2017
 
-| Hackathon | Location | Time |
+| Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Blockathon](https://startit.rs/pravimo-prvi-blockchain-hakaton-u-novom-sadu-prijavite-se-do-24-novembra/) | Startit Centar Novi Sad | 1-3 December 2017 |
 | [Open API or Die Hackathon](http://bakson.rs/en/hackaton/) | ICT Hub | 24-25 November 2017 |
@@ -22,6 +23,7 @@
 | [Python Hackathon: Smart Energy Management Challenge](http://info.typhoon-hil.com/typhoon-hil-inc.-invites-you-to-the-first-python-hackathon-to-be-held-in-serbia) | Business Incubator Novi Sad | 4-5 November 2017 |
 | [Cloud & IoT Hackathon](https://devtechgroup.com/hackathon/)* | Devtech BG office | 3-5 November 2017 |
 | [SICEF Hackathon](http://sicef.info/hakaton/) | Faculty of Electronic Engineering (Nis) | 3-5 November 2017 |
+| [Quantox mini hackathon](https://www.facebook.com/events/1118927501570924) | Kneza Vase Popovica 38, Cacak | 2nd November 2017 |
 | [Climathon](https://climathon.climate-kic.org/) | Startit Centar Novi Sad | 27-28 October 2017 |
 | [CodeCraft 2017](http://codecraft.gq/) | StartUp Centar Nis | 16-21 October 2017 |
 | [Hacklanje](https://poslovi.infostud.com/vesti/Virtualni-Hakaton-na-Virtuelnim-danima-karijere-i-znanja/53063) | Virtual event | 11-16 October 2017 |
