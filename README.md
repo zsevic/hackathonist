@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [OrganiCity hackathon #3](https://startit.rs/treci-organicity-hakaton-servisi-i-aplikacije-za-bolji-novi-sad/) | Startit Centar Novi Sad | 17th February 2018 |
 | [NIS hackathon](http://hackathon.icthub.rs/) | ICT Hub | 2-4 March 2018 |
 
 #### Recent hackathons
