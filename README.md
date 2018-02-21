@@ -2,13 +2,14 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [OrganiCity hackathon #3](https://startit.rs/treci-organicity-hakaton-servisi-i-aplikacije-za-bolji-novi-sad/) | Startit Centar Novi Sad | 17th February 2018 |
 | [NIS hackathon](http://hackathon.icthub.rs/) | ICT Hub | 2-4 March 2018 |
+| [Hyperhack](https://startit.rs/hyperhack-blockchain-hakaton-novi-sad/) | Startit Centar Novi Sad | 16-18 March 2018 |
 
 #### Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [OrganiCity hackathon #3](https://startit.rs/treci-organicity-hakaton-servisi-i-aplikacije-za-bolji-novi-sad/) | Startit Centar Novi Sad | 17th February 2018 |
 | [Datathon](https://startit.rs/prvi-online-data-challenge-u-sofiji-dss-datathon-2018/) | Startit Centar Beograd | 9-11 February 2018 |
 | [OrganiCity hackathon #2](https://startit.rs/drugi-organicity-hakaton-servisi-i-aplikacije-za-bolji-novi-sad/) | Startit Centar Novi Sad | 10th February 2018 |
 | [OrganiCity hackathon](https://startit.rs/januarski-hakaton-i-radionica-na-temu-servisa-i-aplikacija-za-bolji-novi-sad/) | Startit Centar Novi Sad | 27-28 January 2018 |
