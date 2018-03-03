@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [NIS hackathon](http://hackathon.icthub.rs/) | ICT Hub | 2-4 March 2018 |
 | [Hyperhack](https://startit.rs/hyperhack-blockchain-hakaton-novi-sad/) | Startit Centar Novi Sad | 16-18 March 2018 |
+| [FON](http://hakaton.fonis.rs/) | FON | 31 March - 1 April 2018 |
 
 #### Recent hackathons
 
