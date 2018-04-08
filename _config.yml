@@ -2,3 +2,5 @@ title: Hackathonist
 description: List of upcoming and recent hackathons in Serbia
 repository: hackathonist/zsevic
 theme: jekyll-theme-hacker
+plugins:
+  - jemoji
