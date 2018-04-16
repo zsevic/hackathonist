@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [CodeBeyond](http://www.code.best.rs/) | ICT Hub | 13-17 April 2018 |
+| [LazyBrain vol_AI](https://lazybrain.org/ai/) | Belgrade? | 19-20 May 2018 |
 
 #### :computer: Recent hackathons
 
