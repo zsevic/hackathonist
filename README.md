@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [CodeBeyond](http://www.code.best.rs/) | ICT Hub | 13-17 April 2018 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
 | [LazyBrain vol_AI](https://lazybrain.org/ai/) | Belgrade? | 19-20 May 2018 |
 
@@ -10,6 +9,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [CodeBeyond](http://www.code.best.rs/) | ICT Hub | 13-17 April 2018 |
 | [EESTech Challenge](https://docs.google.com/forms/d/e/1FAIpQLSdXa4DT_ODkkagTxw9lP1bn3DWQnGyu_5xy6Ea4q7q3TKTwuQ/viewform) | Microsoft Development Center | 31 March - 1 April 2018 |
 | [FON](http://hakaton.fonis.rs/) | FON | 31 March - 1 April 2018 |
 | [Hyper-Reality](https://startit.rs/prvi-hyper-reality-hakaton-na-svetu-nagradni-fond-3-500-funti/) | Startit Centar Beograd | 23-25 March 2018 |
