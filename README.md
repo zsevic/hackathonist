@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| Fintech hackathon | ICT Hub | 18-20 May 2018 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
 | [LazyBrain vol_AI](https://lazybrain.org/ai/) | Belgrade? | 19-20 May 2018 |
 
