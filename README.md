@@ -2,9 +2,11 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [MatHackathon](http://mathack.rs) | Startit Centar Beograd | 12-13 May 2018 |
 | Fintech hackathon | ICT Hub | 18-20 May 2018 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
-| [LazyBrain vol_AI](https://lazybrain.org/ai/) | Belgrade? | 19-20 May 2018 |
+| [LazyBrain vol_AI](https://lazybrain.org/ai/) | Naučno-tehnološki park Beograd | 19-20 May 2018 |
+| [CodeGovernment](https://startit.rs/e-uprava-hakaton-2018/) | Startit Centar Beograd, Startit Centar Novi Sad, Deli Nis | 25-27 May 2017 |
 
 #### :computer: Recent hackathons
 
