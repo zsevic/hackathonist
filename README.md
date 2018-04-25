@@ -7,6 +7,7 @@
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
 | [LazyBrain vol_AI](https://lazybrain.org/ai/) | Naučno-tehnološki park Beograd | 19-20 May 2018 |
 | [CodeGovernment](https://startit.rs/e-uprava-hakaton-2018/) | Startit Centar Beograd, Startit Centar Novi Sad, Deli Nis | 25-27 May 2017 |
+| [Ubisoft Game Jam](https://startit.rs/ubisoft-game-jam/) | Startit Centar Beograd | 2-3 June 2018 |
 
 #### :computer: Recent hackathons
 
