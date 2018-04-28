@@ -13,6 +13,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [BizKod v3.0](http://bizkod.rs) | hotel Galleria, Subotica | 21-22 April 2018 |
 | [CodeBeyond](http://www.code.best.rs/) | ICT Hub | 13-17 April 2018 |
 | [EESTech Challenge](https://docs.google.com/forms/d/e/1FAIpQLSdXa4DT_ODkkagTxw9lP1bn3DWQnGyu_5xy6Ea4q7q3TKTwuQ/viewform) | Microsoft Development Center | 31 March - 1 April 2018 |
 | [FON](http://hakaton.fonis.rs/) | FON | 31 March - 1 April 2018 |
