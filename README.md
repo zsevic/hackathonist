@@ -2,9 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Digitalizacija plastike](http://www.hackathon.icthub.rs/) | ICT Hub | 18-20 May 2018 |
-| [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
-| [LazyBrain vol_AI](https://lazybrain.org/ai/) | Naučno-tehnološki park Beograd | 19-20 May 2018 |
 | [CodeGovernment](https://startit.rs/e-uprava-hakaton-2018/) | Startit Centar Beograd, Startit Centar Novi Sad, Deli Nis | 25-27 May 2018 |
 | [Ubisoft Game Jam](https://startit.rs/ubisoft-game-jam/) | Startit Centar Beograd | 2-3 June 2018 |
 
@@ -12,6 +9,9 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Digitalizacija plastike](http://www.hackathon.icthub.rs/) | ICT Hub | 18-20 May 2018 |
+| [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
+| [LazyBrain vol_AI](https://lazybrain.org/ai/) | Naučno-tehnološki park Beograd | 19-20 May 2018 |
 | [MatHackathon](http://mathack.rs) | Startit Centar Beograd | 12-13 May 2018 |
 | [BizKod v3.0](http://bizkod.rs) | hotel Galleria, Subotica | 21-22 April 2018 |
 | [CodeBeyond](http://www.code.best.rs/) | ICT Hub | 13-17 April 2018 |
