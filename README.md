@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [CodeGovernment](https://startit.rs/e-uprava-hakaton-2018/) | Startit Centar Beograd, Startit Centar Novi Sad, Deli Nis | 25-27 May 2018 |
+| [AI4Drones](https://ai4drones.devpost.com/) | ZINC 2018 Conference, Novi Sad | 30-31 May 2018 |
 | [Ubisoft Game Jam](https://startit.rs/ubisoft-game-jam/) | Startit Centar Beograd | 2-3 June 2018 |
 | [Girls Can Code](http://startup.icthub.rs/girls-can-code-hackathon/) | Metropolitan University | 2-3 June 2018 |
 | [SymOrg Case Study Hackathon](http://symorg.fon.bg.ac.rs/casestudyhackathon/) | “Ratko Mitrović”, Zlatibor | 7-8 June 2018 |
