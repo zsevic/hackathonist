@@ -2,15 +2,17 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [AI4Drones](https://ai4drones.devpost.com/) | ZINC 2018 Conference, Novi Sad | 30-31 May 2018 |
 | [Ubisoft Game Jam](https://startit.rs/ubisoft-game-jam/) | Startit Centar Beograd | 2-3 June 2018 |
 | [Girls Can Code](http://startup.icthub.rs/girls-can-code-hackathon/) | Metropolitan University | 2-3 June 2018 |
 | [SymOrg Case Study Hackathon](http://symorg.fon.bg.ac.rs/casestudyhackathon/) | “Ratko Mitrović”, Zlatibor | 7-8 June 2018 |
+| [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
+
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [AI4Drones](https://ai4drones.devpost.com/) | ZINC 2018 Conference, Novi Sad | 30-31 May 2018 |
 | [CodeGovernment](https://startit.rs/e-uprava-hakaton-2018/) | Startit Centar Beograd, Startit Centar Novi Sad, Deli Nis | 25-27 May 2018 |
 | [Digitalizacija plastike](http://www.hackathon.icthub.rs/) | ICT Hub | 18-20 May 2018 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 18-20 May 2018 |
