@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
+| [Retail Tech](http://hackathon.icthub.rs/) | ICT hub | 29 June - 1 July 2018 |
 
 #### :computer: Recent hackathons
 
