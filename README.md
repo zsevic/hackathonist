@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
 | [Retail Tech](http://hackathon.icthub.rs/) | ICT hub | 29 June - 1 July 2018 |
 | [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
 
@@ -10,6 +9,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
 | [SymOrg Case Study Hackathon](http://symorg.fon.bg.ac.rs/casestudyhackathon/) | “Ratko Mitrović”, Zlatibor | 7-8 June 2018 |
 | [Ubisoft Game Jam](https://startit.rs/ubisoft-game-jam/) | Startit Centar Beograd | 2-3 June 2018 |
 | [Girls Can Code](http://startup.icthub.rs/girls-can-code-hackathon/) | Metropolitan University | 2-3 June 2018 |
