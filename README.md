@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
 | [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
+| [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 
 #### :computer: Recent hackathons
 
