@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
 | [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 
@@ -10,6 +9,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
 | [Retail Tech](http://hackathon.icthub.rs/) | ICT hub | 29 June - 1 July 2018 |
 | [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
 | [SymOrg Case Study Hackathon](http://symorg.fon.bg.ac.rs/casestudyhackathon/) | “Ratko Mitrović”, Zlatibor | 7-8 June 2018 |
