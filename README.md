@@ -5,6 +5,7 @@
 | [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
 | [womENcourage](https://womencourage.acm.org/2018/index.php/hackathon/) | Metropol Palace | 3-5 October 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
+| [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2017 |
 
 #### :computer: Recent hackathons
 
