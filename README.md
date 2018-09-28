@@ -6,6 +6,7 @@
 | [womENcourage](https://womencourage.acm.org/2018/index.php/hackathon/) | Metropol Palace | 3-5 October 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 | [Young Media: Code to Vote](http://koms.rs/vesti/hackathon-poziv/) | Belgrade | 13-14 October 2018 |
+| [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
 | [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2017 |
 
 #### :computer: Recent hackathons
