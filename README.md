@@ -2,17 +2,18 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
 | [womENcourage](https://womencourage.acm.org/2018/index.php/hackathon/) | Metropol Palace | 3-5 October 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 | [Young Media: Code to Vote](http://koms.rs/vesti/hackathon-poziv/) | Belgrade | 13-14 October 2018 |
 | [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
+| [Hack our world](https://hackourworld.com/) | Impact Hub | 27-28 October 2018 |
 | [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2017 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
 | [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
 | [Retail Tech](http://hackathon.icthub.rs/) | ICT hub | 29 June - 1 July 2018 |
 | [Game Jam](http://sga.rs/fb-game-jam) | Impact Hub, Beograd | 23-24 June 2018 |
