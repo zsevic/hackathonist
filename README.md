@@ -7,7 +7,8 @@
 | [Young Media: Code to Vote](http://koms.rs/vesti/hackathon-poziv/) | Belgrade | 13-14 October 2018 |
 | [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
 | [Hack our world](https://hackourworld.com/) | Impact Hub | 27-28 October 2018 |
-| [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2017 |
+| [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
+| [TOM:Belgrade](https://www.tombelgrade.org/) | Centar za promociju nauke (Beograd) | 30 November - 2 December 2018 |
 
 #### :computer: Recent hackathons
 
