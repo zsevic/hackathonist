@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [HACKLANJE](https://hackathon.dankarijera.com/hacklanje) | Virtualni dani karijera i znanja | 3-11 October 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 | [Young Media: Code to Vote](http://koms.rs/vesti/hackathon-poziv/) | Belgrade | 13-14 October 2018 |
 | [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
