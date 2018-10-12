@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [HACKLANJE](https://hackathon.dankarijera.com/hacklanje) | Virtualni dani karijera i znanja | 3-11 October 2018 |
 | [DesCon '18](https://descon.me/2018/) | Impact Hub | 13-14 October 2018 |
 | [Young Media: Code to Vote](http://koms.rs/vesti/hackathon-poziv/) | Belgrade | 13-14 October 2018 |
 | [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
@@ -15,6 +14,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [HACKLANJE](https://hackathon.dankarijera.com/hacklanje) | Virtualni dani karijera i znanja | 3-11 October 2018 |
 | [womENcourage](https://womencourage.acm.org/2018/index.php/hackathon/) | Metropol Palace | 3-5 October 2018 |
 | [Code. Hackathon. Female. Namics.](https://www.namics.com/en/news/2018/female-hackathon/) | Namics, Belgrade | 29th September 2018 |
 | [Code for a Cause 2](https://www.vegaitsourcing.rs/media-center/blog/2018/6/code-for-a-cause-2/) | Vega IT, Novi Sad | 7-9 September 2018 |
