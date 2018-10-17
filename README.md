@@ -4,8 +4,10 @@
 | --------- | -------- | ---- |
 | [Nasa Space Apps Challenge](https://2018.spaceappschallenge.org/locations/belgrade/) | Startit Centar Beograd | 19-21 October 2018 |
 | [Climathon](https://climathon.climate-kic.org/en/novi-sad) | Startit Centar Novi Sad | 26-27 October 2018 |
+| [Climathon](https://climathon.climate-kic.org/en/sabac) | Startit Centar Šabac | 26-27 October 2018 |
 | [Hack our world](https://hackourworld.com/) | Impact Hub | 27-28 October 2018 |
 | [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
+| [BNE: Saga hackathon](https://www.brandnewengineers.rs/) | Faculty of Electrical Engineering | 24-25 November 2018 |
 | [TOM:Belgrade](https://www.tombelgrade.org/) | Centar za promociju nauke (Beograd) | 30 November - 2 December 2018 |
 
 #### :computer: Recent hackathons
