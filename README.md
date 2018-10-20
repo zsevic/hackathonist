@@ -7,6 +7,7 @@
 | [Climathon](https://climathon.climate-kic.org/en/sabac) | Startit Centar Šabac | 26-27 October 2018 |
 | [Hack our world](https://hackourworld.com/) | Impact Hub | 27-28 October 2018 |
 | [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
+| [Python Hackathon II](https://www.facebook.com/events/336575093814969/) | Business Incubator Novi Sad | 17-19 November 2018 |
 | [BNE: Saga hackathon](https://www.brandnewengineers.rs/) | Faculty of Electrical Engineering | 24-25 November 2018 |
 | [TOM:Belgrade](https://www.tombelgrade.org/) | Centar za promociju nauke (Beograd) | 30 November - 2 December 2018 |
 
