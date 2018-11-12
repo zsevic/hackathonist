@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
 | [Hack9 student edition](https://www.brandnewengineers.rs/2018/10/23/levi9-najava.html) | Levi9 IT Services Beograd | 17th November 2018 |
 | [Python Hackathon II](https://www.facebook.com/events/336575093814969/) | Business Incubator Novi Sad | 17-19 November 2018 |
 | [5 dana na Javi](http://www.5dananajavi.com/) | Levi9 IT Services Novi Sad | 24th November 2018 |
@@ -15,6 +14,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
 | [Hack our world](https://hackourworld.com/) | Impact Hub | 27-28 October 2018 |
 | [Climathon](https://climathon.climate-kic.org/en/novi-sad) | Startit Centar Novi Sad | 26-27 October 2018 |
 | [Climathon](https://climathon.climate-kic.org/en/sabac) | Startit Centar Šabac | 26-27 October 2018 |
