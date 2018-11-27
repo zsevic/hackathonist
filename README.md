@@ -2,8 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [5 dana na Javi](http://www.5dananajavi.com/) | Levi9 IT Services Novi Sad | 24th November 2018 |
-| [BNE hackathon](https://www.brandnewengineers.rs/) | Saga doo Beograd | 24-25 November 2018 |
 | [TOM:Belgrade](https://www.tombelgrade.org/) | Centar za promociju nauke (Beograd) | 30 November - 2 December 2018 |
 | [Bits N’ AndroidTV hackathon](https://www.tech-lifestyle.com/vesti/bits-n-androidtv-hakaton-izazov-za-sve-kompjuterske-magove/) | Share Square Belgrade | 5-6 December 2018 |
 | [Artificial Intelligence BattleGround](https://aibg.best.rs/) | Naučno-tehnološki park Beograd | 7-8 December 2018 |
@@ -13,6 +11,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [BNE hackathon](https://www.brandnewengineers.rs/) | Saga doo Beograd | 24-25 November 2018 |
+| [5 dana na Javi](http://www.5dananajavi.com/) | Levi9 IT Services Novi Sad | 24th November 2018 |
 | [Python Hackathon II](https://www.facebook.com/events/336575093814969/) | Business Incubator Novi Sad | 17-18 November 2018 |
 | [Hack9 student edition](https://www.brandnewengineers.rs/2018/10/23/levi9-najava.html) | Levi9 IT Services Beograd | 17th November 2018 |
 | [SICEF](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 9-11 November 2018 |
