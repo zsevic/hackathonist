@@ -3,6 +3,8 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Bring IT on!](http://hzs.fonis.rs/) | FON | 15-16 December 2018 |
+| [Design never sleeps](https://www.metropolitan.ac.rs/design-never-sleeps/) | Metropolitan University | 15-16 December 2018 |
+
 
 #### :computer: Recent hackathons
 
