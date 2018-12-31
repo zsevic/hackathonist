@@ -2,14 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Bring IT on!](http://hzs.fonis.rs/) | FON | 15-16 December 2018 |
-| [Design never sleeps](https://www.metropolitan.ac.rs/design-never-sleeps/) | Metropolitan University | 15-16 December 2018 |
-
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Bring IT on!](http://hzs.fonis.rs/) | FON | 15-16 December 2018 |
+| [Design never sleeps](https://www.metropolitan.ac.rs/design-never-sleeps/) | Metropolitan University | 15-16 December 2018 |
 | [Artificial Intelligence BattleGround](https://aibg.best.rs/) | Naučno-tehnološki park Beograd | 7-8 December 2018 |
 | [Bits N’ AndroidTV hackathon](https://www.tech-lifestyle.com/vesti/bits-n-androidtv-hakaton-izazov-za-sve-kompjuterske-magove/) | Share Square Belgrade | 5-6 December 2018 |
 | [TOM:Belgrade](https://www.tombelgrade.org/) | Centar za promociju nauke (Beograd) | 30 November - 2 December 2018 |
