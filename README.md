@@ -2,8 +2,11 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Zoran Đinđić Hakaton](http://www.hakatonzorandjindjic.rs/) | Belgrade | 9-10 March 2019 |
 | [FON hakaton](http://hakaton.fonis.rs/) | FON | 23-24 March 2019 |
-| [School of AI Health Hackathon](https://www.eventbrite.com/e/school-of-ai-health-hackathon-2019-belgrade-serbia-tickets-56859163288) | Belgrade | 30-31 March 2019 |
+| [School of AI Health Hackathon](https://www.eventbrite.com/e/school-of-ai-health-hackathon-2019-belgrade-serbia-tickets-56859163288) | Startit Centar Beograd | 30-31 March 2019 |
+| [Novi Digitalni Pazar](https://ictdc.rs/hakaton/) | International University of Novi Pazar | 13-14 April 2019 |
+
 
 #### :computer: Recent hackathons
 
