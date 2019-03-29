@@ -7,6 +7,7 @@
 | [EESTech Challenge - IoT hackathon](https://www.facebook.com/events/266191320968843/) | Microsoft Development Center | 30-31 March 2019 |
 | [TeleSign Datathon](https://datathon.eu/telesign/) | Startit Centar Beograd | 6-7 April 2019 |
 | [Novi Digitalni Pazar](https://ictdc.rs/hakaton/) | International University of Novi Pazar | 13-14 April 2019 |
+| [VR hackathon]() | Startit Centar Novi Sad | 11-12 May 2019 |
 
 #### :computer: Recent hackathons
 
