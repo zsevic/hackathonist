@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [TeleSign Datathon](https://datathon.eu/telesign/) | Startit Centar Beograd | 6-7 April 2019 |
+| [Media Jam hackathon](https://belgrade.impacthub.net/media-jam-hakaton/) | Impact Hub | 12-13 April 2019 |
 | [Novi Digitalni Pazar](https://ictdc.rs/hakaton/) | International University of Novi Pazar | 13-14 April 2019 |
 | [VR hackathon]() | Startit Centar Novi Sad | 11-12 May 2019 |
 
