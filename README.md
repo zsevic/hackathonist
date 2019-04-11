@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [TeleSign Datathon](https://datathon.eu/telesign/) | Startit Centar Beograd | 6-7 April 2019 |
 | [Media Jam hackathon](https://belgrade.impacthub.net/media-jam-hakaton/) | Impact Hub | 12-13 April 2019 |
 | [Novi Digitalni Pazar](https://ictdc.rs/hakaton/) | International University of Novi Pazar | 13-14 April 2019 |
 | [VR hackathon]() | Startit Centar Novi Sad | 11-12 May 2019 |
@@ -11,6 +10,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [TeleSign Datathon](https://datathon.eu/telesign/) | Startit Centar Beograd | 6-7 April 2019 |
 | [School of AI Health Hackathon](https://www.eventbrite.com/e/school-of-ai-health-hackathon-2019-belgrade-serbia-tickets-56859163288) | Startit Centar Beograd | 30-31 March 2019 |
 | [BizKod v4.0](http://bizkod.rs/) | Subotica | 30-31 March 2019 |
 | [EESTech Challenge - IoT hackathon](https://www.facebook.com/events/266191320968843/) | Microsoft Development Center | 30-31 March 2019 |
