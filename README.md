@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Code AI](https://codeai.lazybrain.org/) | Microsoft Development Center | 11-12 May 2019 |
+| [MatHackathon](http://mathack.rs/) | Naučno-tehnološki park Beograd | 11-12 May 2019 |
 | [EUzaTebe hackathon](http://euhakaton.europa.rs/) | ICT Hub | 17-19 May 2019 |
 
 #### :computer: Recent hackathons
