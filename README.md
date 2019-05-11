@@ -5,6 +5,7 @@
 | [Code AI](https://codeai.lazybrain.org/) | Microsoft Development Center | 11-12 May 2019 |
 | [MatHackathon](http://mathack.rs/) | Naučno-tehnološki park Beograd | 11-12 May 2019 |
 | [EUzaTebe hackathon](http://euhakaton.europa.rs/) | ICT Hub | 17-19 May 2019 |
+| [VR hackathon](https://startit.rs/budite-deo-prvog-hakatona-u-indiji-prijave-otvorene-do-17-maja/) | Startit Centar Inđija | 24-26 May 2019 |
 | [Girls Can Code](http://metlab.rs/hackathon/) | Metropolitan University | 25-26 May 2019 |
 | [Game Jam](https://startit.rs/napravite-gaming-aplikaciju-tokom-dvadesetcetvorocasovnog-game-jama-pocetkom-juna-u-beogradu/) | Ubisoft | 1-2 June 2019 |
 | [Belgrade Machine Learning Hackathon](https://startit.rs/belgrade-machine-learning-hackathon-pocetkom-juna-u-beogradskom-startit-centru/) | Startit Centar Beograd | 1-2 June 2019 |
