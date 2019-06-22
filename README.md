@@ -2,12 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 7-9 June 2019 |
+| [SHack Novi Sad VR Hackathon](https://eu-youthaward.org/shack-novi-sad-2019/) | Svilara | 26-28 June 2019 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 7-9 June 2019 |
 | [Game Jam](https://startit.rs/napravite-gaming-aplikaciju-tokom-dvadesetcetvorocasovnog-game-jama-pocetkom-juna-u-beogradu/) | Ubisoft | 1-2 June 2019 |
 | [Belgrade Machine Learning Hackathon](https://startit.rs/belgrade-machine-learning-hackathon-pocetkom-juna-u-beogradskom-startit-centru/) | Startit Centar Beograd | 1-2 June 2019 |
 | [Girls Can Code](http://metlab.rs/hackathon/) | Metropolitan University | 25-26 May 2019 |
