@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [SHack Novi Sad VR Hackathon](https://eu-youthaward.org/shack-novi-sad-2019/) | Svilara | 26-28 June 2019 |
+| [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
 #### :computer: Recent hackathons
 
