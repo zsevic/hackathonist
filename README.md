@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Dijalog za budućnost](https://bfpe.org/hakaton-dijalog-za-buducnost-12-14-jul/) | ICT hub | 12-14 July 2019 |
 | [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
 #### :computer: Recent hackathons
