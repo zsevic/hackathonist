@@ -2,13 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Dijalog za budućnost](https://bfpe.org/hakaton-dijalog-za-buducnost-12-14-jul/) | ICT hub | 12-14 July 2019 |
 | [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Dijalog za budućnost](https://bfpe.org/hakaton-dijalog-za-buducnost-12-14-jul/) | ICT hub | 12-14 July 2019 |
 | [SHack Novi Sad VR Hackathon](https://eu-youthaward.org/shack-novi-sad-2019/) | Svilara | 26-28 June 2019 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 7-9 June 2019 |
 | [Game Jam](https://startit.rs/napravite-gaming-aplikaciju-tokom-dvadesetcetvorocasovnog-game-jama-pocetkom-juna-u-beogradu/) | Ubisoft | 1-2 June 2019 |
