@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [IBM Datathon](https://datathon.eu/ibm/) | ICT Hub | 7-8 September 2019 |
 | [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
 #### :computer: Recent hackathons
