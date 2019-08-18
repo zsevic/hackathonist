@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [IBM Datathon](https://datathon.eu/ibm/) | ICT Hub | 7-8 September 2019 |
+| [Global Travel Hackathon](https://www.eventbrite.com/e/global-travel-hackathon-belgrade-edition-tickets-68284501783) | Nova Iskra | 27-28 September 2019 |
 | [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
 #### :computer: Recent hackathons
