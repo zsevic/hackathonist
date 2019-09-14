@@ -2,9 +2,9 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [IBM Datathon](https://datathon.eu/ibm/) | ICT Hub | 7-8 September 2019 |
 | [Global Travel Hackathon](https://www.eventbrite.com/e/global-travel-hackathon-belgrade-edition-tickets-68284501783) | Nova Iskra | 27-28 September 2019 |
 | [Code for a cause 3](https://docs.google.com/forms/d/e/1FAIpQLSeiOl8GRwRARHmccSJkf1LntgWdhHBjwgdfVmVW3RtQpkXUfg/viewform) | Vega IT, Novi Sad | 4-6 October 2019 |
+| [DesCon 5.0](https://www.descon.me/2019/) | Impact Hub | 5-6 October 2019 |
 | [International Datathon](https://datathon.eu/global/) | Belgrade | 12-13 October 2019 |
 | [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
 
@@ -12,6 +12,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [IBM Datathon](https://datathon.eu/ibm/) | ICT Hub | 7-8 September 2019 |
 | [Dijalog za budućnost](https://bfpe.org/hakaton-dijalog-za-buducnost-12-14-jul/) | ICT hub | 12-14 July 2019 |
 | [SHack Novi Sad VR Hackathon](https://eu-youthaward.org/shack-novi-sad-2019/) | Svilara | 26-28 June 2019 |
 | [What the hack](http://ftnhack.rs/) | Rektorat UNS-a | 7-9 June 2019 |
