@@ -5,7 +5,7 @@
 | [Code for a cause 3](https://docs.google.com/forms/d/e/1FAIpQLSeiOl8GRwRARHmccSJkf1LntgWdhHBjwgdfVmVW3RtQpkXUfg/viewform) | Vega IT, Novi Sad | 4-6 October 2019 |
 | [DesCon 5.0](https://www.descon.me/2019/) | Impact Hub | 5-6 October 2019 |
 | [International Datathon](https://datathon.eu/global/) | Belgrade | 12-13 October 2019 |
-| [Nasa Space Apps Challenge]() | | 18-20 October 2019 |
+| [Nasa Space Apps Challenge](https://2019.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 18-20 October 2019 |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
 
 #### :computer: Recent hackathons
