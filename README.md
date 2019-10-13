@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [International Datathon](https://datathon.eu/global/) | Belgrade | 12-13 October 2019 |
+| [TADHack Global](https://tadhack.com/2019/global/belgrade/) | TeleSign | 12-13 October 2019 |
 | [Nasa Space Apps Challenge](https://2019.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 18-20 October 2019 |
 | [SICEF Hackathon](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 8-10 November 2019 |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
