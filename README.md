@@ -5,6 +5,7 @@
 | [Climathon](https://climathon.climate-kic.org/en/novi-sad) | Business Incubator Novi Sad | 25-26 October 2019 |
 | [SICEF Hackathon](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 8-10 November 2019 |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
+| [Saga hackathon]() | | 13th December 2019 |
 
 #### :computer: Recent hackathons
 
