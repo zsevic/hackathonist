@@ -11,6 +11,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Climathon](https://climathon.climate-kic.org/en/subotica) | Startit Centar Subotica | 25-26 October 2019 |
 | [Climathon](https://climathon.climate-kic.org/en/novi-sad) | Business Incubator Novi Sad | 25-26 October 2019 |
 | [Nasa Space Apps Challenge](https://2019.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 18-20 October 2019 |
 | [International Datathon](https://datathon.eu/global/) | Belgrade | 12-13 October 2019 |
