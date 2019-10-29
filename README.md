@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
+| [5 dana na Javi](http://www.5dananajavi.com) | Levi9 Technology Services Novi Sad | 23rd November 2018 |
 | [Artificial Intelligence BattleGround](https://aibg.best.rs) | Nordeus Hub | 6-7 December 2019 |
 | [Bring IT on!](http://hzs.fonis.rs/) | FON | 7-8 December 2019 |
 | [Saga hackathon]() | | 13th December 2019 |
