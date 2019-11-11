@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [SICEF Hackathon](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 8-10 November 2019 |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
 | [Artificial Intelligence BattleGround](https://aibg.best.rs) | Nordeus Hub | 6-7 December 2019 |
 | [Saga hackathon]() | | 13th December 2019 |
@@ -11,6 +10,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [SICEF Hackathon](http://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 8-10 November 2019 |
 | [Climathon](https://climathon.climate-kic.org/en/subotica) | Startit Centar Subotica | 25-26 October 2019 |
 | [Climathon](https://climathon.climate-kic.org/en/novi-sad) | Business Incubator Novi Sad | 25-26 October 2019 |
 | [Nasa Space Apps Challenge](https://2019.spaceappschallenge.org/locations/belgrade) | Startit Centar Beograd | 18-20 October 2019 |
