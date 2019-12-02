@@ -6,6 +6,7 @@
 | [Bring IT on!](http://hzs.fonis.rs/) | FON | 7-8 December 2019 |
 | [SAGA hackathon](https://brandnewengineers.rs/2019/11/22/SAGA_najava.html) | SAGA | 14-15 December 2019 |
 | [Code. Hackathon. Female. Namics.](https://namics.com/en/event/female-code-hackathon-2019) | Namics, Belgrade | 14th December 2019 |
+| [RAF hackathon](https://hakaton.raf.edu.rs/prijava) | RAF | 21-22 December 2019 |
 
 #### :computer: Recent hackathons
 
