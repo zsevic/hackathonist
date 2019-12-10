@@ -2,8 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Bring IT on!](http://hzs.fonis.rs/) | FON | 7-8 December 2019 |
-| [Hackathon](https://startit.rs/kreirajte-mobilnu-aplikaciju-za-direktno-ucesce-gradana-sapca-u-izradi-i-realizaciji-gradskih-projekata-hakaton-u-startit-centru-sabac/) | Startit Centar Šabac | 7-8 December 2019 |
 | [Code. Hackathon. Female. Namics.](https://namics.com/en/event/female-code-hackathon-2019) | Namics, Belgrade | 14th December 2019 |
 | [SAGA hackathon](https://brandnewengineers.rs/2019/11/22/SAGA_najava.html) | SAGA | 14-15 December 2019 |
 | [Gameathon](http://www.gameathon.rs/#/) | Startup Centar Niš | 14-15 December 2019 |
@@ -13,6 +11,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Bring IT on!](http://hzs.fonis.rs/) | FON | 7-8 December 2019 |
+| [Hackathon](https://startit.rs/kreirajte-mobilnu-aplikaciju-za-direktno-ucesce-gradana-sapca-u-izradi-i-realizaciji-gradskih-projekata-hakaton-u-startit-centru-sabac/) | Startit Centar Šabac | 7-8 December 2019 |
 | [Artificial Intelligence BattleGround](https://aibg.best.rs) | Nordeus Hub | 6-7 December 2019 |
 | [5 dana na Javi](http://www.5dananajavi.com) | Levi9 Technology Services Novi Sad | 23rd November 2018 |
 | [TOM:Belgrade](https://www.tombelgrade.org) | Naučno-tehnološki park Beograd | 15-17 November 2019 |
