@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [#hiljadekamera community datathon](https://hiljade.kamera.rs/datathon/) | KC “Magacin” Beograd | 29 February 2020 |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | 13-15 March 2020 |
 | [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | 31st March 2020 |
 | [HackBelgrade 2020](https://www.hackbelgrade.com/) | Opera & Theatre Madlenianum | 24-26 April 2020 |
