@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | 13-15 March 2020 |
+| [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub | 14-15 March 2020 |
 | [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | 31st March 2020 |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd | 3-5 April 2020 |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad | 3-5 April 2020 |
