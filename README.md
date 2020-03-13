@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
 | [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub | |
+| [BizKod v5.0](https://bizkod.rs/) | Subotica | |
 | [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | 31st March 2020 |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd | 3-5 April 2020 |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad | 3-5 April 2020 |
