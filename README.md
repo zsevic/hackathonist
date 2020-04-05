@@ -2,14 +2,15 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
 | [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub | |
 | [BizKod v5.0](https://bizkod.rs/) | Subotica | |
-| [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | 31st March 2020 |
-| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd | 3-5 April 2020 |
-| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad | 3-5 April 2020 |
-| [Hack#teen](https://hackteen.afa.co.rs/) | Nordeus Hub | 21-23 April 2020 |
-| [HackBelgrade 2020](https://www.hackbelgrade.com/) | Opera & Theatre Madlenianum | 24-26 April 2020 |
+| [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | |
+| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd | |
+| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad | |
+| [Hack#teen](https://hackteen.afa.co.rs/) | Nordeus Hub | |
+| [HackBelgrade 2020](https://www.hackbelgrade.com/) | Opera & Theatre Madlenianum | |
 
 #### :computer: Recent hackathons
 
