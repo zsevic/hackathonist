@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Hack#teen](https://hackteen.afa.co.rs/) | Legat Čolaković | 23rd September 2020 |
 | [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
 | [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub | |
@@ -9,7 +10,6 @@
 | [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd | |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad | |
-| [Hack#teen](https://hackteen.afa.co.rs/) | Nordeus Hub | |
 | [HackBelgrade 2020](https://www.hackbelgrade.com/) | Opera & Theatre Madlenianum | |
 
 #### :computer: Recent hackathons
