@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Planet Balkan Hackathon](https://www.serbiancaseforspace.com/#/hackathon) | online | 31 October - 1 November 2020 |
+| [ABB Robo Challenge](https://brandnewengineers.rs/index.html#hakaton) | | |
 | [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
 | [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub | |
