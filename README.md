@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Planet Balkan Hackathon](https://www.serbiancaseforspace.com/#/hackathon) | online | 31 October - 1 November 2020 |
 | [ABB Robo Challenge](https://brandnewengineers.rs/index.html#hakaton) | | |
 | [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
@@ -17,6 +16,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Planet Balkan Hackathon](https://www.serbiancaseforspace.com/#/hackathon) | online | 31 October - 1 November 2020 |
 | [Hack#teen](https://hackteen.afa.co.rs/) | Legat Čolaković | 23rd September 2020 |
 | [Fake news hackathon](https://www.facebook.com/events/200512654491757/) | Sinhro hub Pančevo | 25th June 2020 |
 | [Datathon 2020](https://www.raiffeisenbank.rs/datathon-2020/) | | March 2020 |
