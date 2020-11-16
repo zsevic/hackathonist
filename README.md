@@ -2,8 +2,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [ABB Robo Challenge](https://brandnewengineers.rs/index.html#hakaton) | | |
 | [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
+| [ABB Robo Challenge](https://brandnewengineers.rs/index.html#hakaton) | online | |
 | [BC hackathon](https://bc-hakaton.bettercollective.rocks/) | online | 11-13 December 2020 |
 | [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub | |
