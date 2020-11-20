@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
+| [IoT hackathon](https://www.facebook.com/iktklaster.kragujevac/posts/1831146387032524) | online | 30 November - 3 December 2020 |
 | [ABB Robo Challenge](https://brandnewengineers.rs/index.html#hakaton) | online | |
 | [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
 | [BC hackathon](https://bc-hakaton.bettercollective.rocks/) | online | 11-13 December 2020 |
