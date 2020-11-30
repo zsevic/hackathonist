@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
 | [IoT hackathon](https://www.facebook.com/iktklaster.kragujevac/posts/1831146387032524) | online | 30 November - 3 December 2020 |
 | [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
 | [Online. Female. Code. Hackathon. 2020. Namics.](https://namics.com/en/topics-trends/event/2020/code-hackathon-female-2020-namics) | online | 12th December 2020 |
@@ -26,6 +25,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
 | [Planet Balkan Hackathon](https://www.serbiancaseforspace.com/#/hackathon) | online | 31 October - 1 November 2020 |
 | [Hack#teen](https://hackteen.afa.co.rs/) | Legat Čolaković | 23rd September 2020 |
 | [Fake news hackathon](https://www.facebook.com/events/200512654491757/) | Sinhro hub Pančevo | 25th June 2020 |
