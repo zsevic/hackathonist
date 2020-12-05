@@ -4,3 +4,4 @@ repository: hackathonist/zsevic
 theme: jekyll-theme-hacker
 plugins:
   - jemoji
+google_analytics: UA-112488061-1
