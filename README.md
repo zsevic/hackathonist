@@ -11,7 +11,6 @@
 | Hackathon | Location |
 | --------- | -------- |
 | [Hacktivate](https://hacktivate.rs/) | ICT Hub |
-| [FON hackathon](https://hakaton.fonis.rs/) | Nordeus Hub |
 | [BizKod v5.0](https://bizkod.rs/) | Subotica |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd |
 | [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad |
@@ -23,6 +22,7 @@
 | --------- | -------- | ---- |
 | [Online. Female. Code. Hackathon. 2020. Namics.](https://namics.com/en/topics-trends/event/2020/code-hackathon-female-2020-namics) | online | 12th December 2020 |
 | [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
+| [FON hackathon](https://hakaton.fonis.rs/) | online | 4-6 December 2020 |
 | [IoT hackathon](https://www.facebook.com/iktklaster.kragujevac/posts/1831146387032524) | online | 30 November - 3 December 2020 |
 | [ABB Robo Challenge - 1st round](https://brandnewengineers.rs/index.html#hakaton) | online | 30th November 2020 |
 | [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
