@@ -2,8 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
-| [Online. Female. Code. Hackathon. 2020. Namics.](https://namics.com/en/topics-trends/event/2020/code-hackathon-female-2020-namics) | online | 12th December 2020 |
 | [BC hackathon](https://bc-hakaton.bettercollective.rocks/) | online | 11-13 December 2020 |
 | [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | |
@@ -24,6 +22,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Online. Female. Code. Hackathon. 2020. Namics.](https://namics.com/en/topics-trends/event/2020/code-hackathon-female-2020-namics) | online | 12th December 2020 |
+| [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
 | [IoT hackathon](https://www.facebook.com/iktklaster.kragujevac/posts/1831146387032524) | online | 30 November - 3 December 2020 |
 | [5 dana na Javi](http://www.5dananajavi.com/) | online | 24-28 November 2020 |
 | [Planet Balkan Hackathon](https://www.serbiancaseforspace.com/#/hackathon) | online | 31 October - 1 November 2020 |
