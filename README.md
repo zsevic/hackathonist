@@ -1,24 +1,8 @@
-#### :boom: Upcoming hackathons
-
-| Hackathon | Location | Date |
-| --------- | -------- | ---- |
-| [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
-| [HAKATONKG 2020](http://www.infokg.rs/info/hakatonkg-2020-tema-urbana-mobilnost-prijave-u-toku-nagrada-500-dolara.html) | Kragujevac | |
-
-#### :warning: Postponed hackathons
-
-| Hackathon | Location |
-| --------- | -------- |
-| [Hacktivate](https://hacktivate.rs/) | ICT Hub |
-| [BizKod v5.0](https://bizkod.rs/) | Subotica |
-| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Beograd |
-| [ML Hackathon: Plant Your Code](https://datadragon.eu/rs/hackathon/) | Startit Centar Novi Sad |
-| [HackBelgrade 2020](https://www.hackbelgrade.com/) | Opera & Theatre Madlenianum |
-
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Srbija hakuje Koronu](https://startit.rs/hajde-da-pomognemo-lekarima-i-ugrozenima-poziv-strucnjacima-na-akciju-srbija-hakuje-koronu/) | | |
 | [BC hackathon](https://bc-hakaton.bettercollective.rocks/) | online | 11-13 December 2020 |
 | [Online. Female. Code. Hackathon. 2020. Namics.](https://namics.com/en/topics-trends/event/2020/code-hackathon-female-2020-namics) | online | 12th December 2020 |
 | [Artificial Intelligence BattleGround 3.0](https://aibg.best.rs/) | online | 11-12 December 2020 |
