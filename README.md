@@ -1,3 +1,9 @@
+#### :boom: Upcoming hackathons
+
+| Hackathon | Location | Date |
+| --------- | -------- | ---- |
+| [SUMA MATF hakaton](https://sumamatf.rs/hakaton) | online | 3-4 April 2021 |
+
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
