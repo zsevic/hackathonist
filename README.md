@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Hakaton za srednjoškolce](https://hzs.fonis.rs/2021/#/) | online | 2-3 April 2021 |
 | [SUMA MATF hakaton](https://sumamatf.rs/hakaton) | online | 3-4 April 2021 |
 
 #### :computer: Recent hackathons
