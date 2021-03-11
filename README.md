@@ -2,8 +2,10 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [EESTech Challenge](https://eestechchallenge.eestec.net/#/) | online | 19-21 March 2021 |
 | [Hakaton za srednjoškolce](https://hzs.fonis.rs/2021/#/) | online | 2-3 April 2021 |
 | [SUMA MATF hakaton](https://sumamatf.rs/hakaton) | online | 3-4 April 2021 |
+| [FON hakaton](https://hakaton.fonis.rs/2021/#/) | online | 9-11 April 2021 |
 
 #### :computer: Recent hackathons
 
