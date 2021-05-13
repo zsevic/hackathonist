@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Serbian Case for Space hackathon](http://serbiancaseforspace.com/#/rgz-hackathon-2021) | online | 22-23 May 2021 |
+| [Audio Technologies Hackathon](https://westernbalkanstartups.net/summer-audio) | online | 27 May 2021 |
 
 #### :computer: Recent hackathons
 
