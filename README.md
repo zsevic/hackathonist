@@ -1,3 +1,9 @@
+#### :boom: Upcoming hackathons
+
+| Hackathon | Location | Date |
+| --------- | -------- | ---- |
+| [Serbian Case for Space hackathon](http://serbiancaseforspace.com/#/rgz-hackathon-2021) | online | 22-23 May 2021 |
+
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
