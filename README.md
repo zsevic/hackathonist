@@ -1,13 +1,8 @@
-#### :boom: Upcoming hackathons
-
-| Hackathon | Location | Date |
-| --------- | -------- | ---- |
-| [Audio Technologies Hackathon](https://westernbalkanstartups.net/summer-audio) | online | 27th May 2021 |
-
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Audio Technologies Hackathon](https://westernbalkanstartups.net/summer-audio) | online | 27th May 2021 |
 | [Serbian Case for Space hackathon](http://serbiancaseforspace.com/#/rgz-hackathon-2021) | online | 22-23 May 2021 |
 | [EESTech Challenge](https://eestechchallenge.eestec.net/#/) | online | 14-15 April 2021 |
 | [FON hakaton](https://hakaton.fonis.rs/2021/#/) | online | 9-11 April 2021 |
