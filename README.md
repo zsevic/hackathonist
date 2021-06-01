@@ -1,3 +1,9 @@
+#### :boom: Upcoming hackathons
+
+| Hackathon | Location | Date |
+| --------- | -------- | ---- |
+| [NLB Group Hackathon 2021 - Data Science](https://www.nlb.si/hackathon-2021-data-science) | online | 8-24 June 2021 |
+
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
