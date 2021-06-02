@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [NLB Group Hackathon 2021 - Data Science](https://www.nlb.si/hackathon-2021-data-science) | online | 8-24 June 2021 |
+| [Hackathon KG 2020](https://docs.google.com/forms/d/16Why9Wi-9IG9hUvsSwvSu0Y-WIj0t9jlcRw1WMUNU6I/viewform) | Biznis Inovacioni Centar Kragujevac | 10 June 2021 |
 
 #### :computer: Recent hackathons
 
