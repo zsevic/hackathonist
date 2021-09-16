@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Code for a Cause 4](https://www.vegait.rs/media-center/news/code-for-a-cause-4-help-non-profit-organisations-digitalise) | | 24-26 September 2021 |
 | [WhoisHakaton](https://whoishakaton.rs/) | online | 25-26 September 2021 |
 
 #### :computer: Recent hackathons
