@@ -2,13 +2,15 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Code for a Cause 4](https://www.vegait.rs/media-center/news/code-for-a-cause-4-help-non-profit-organisations-digitalise) | | 24-26 September 2021 |
-| [WhoisHakaton](https://whoishakaton.rs/) | online | 25-26 September 2021 |
+| [SICEF hackathon](https://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 5-7 November 2021 |
+| [NLB Group Hackathon 2021 - Open Finance](https://www.nlb.si/hackathon-2021-open-finance) | online | 12-29 November 2021 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [WhoisHakaton](https://whoishakaton.rs/) | online | 25-26 September 2021 |
+| [Code for a Cause 4](https://www.vegait.rs/media-center/news/code-for-a-cause-4-help-non-profit-organisations-digitalise) | | 24-26 September 2021 |
 | [NLB Group Hackathon 2021 - Data Science](https://www.nlb.si/hackathon-2021-data-science) | online | 8-24 June 2021 |
 | [Hackathon KG 2020](https://docs.google.com/forms/d/16Why9Wi-9IG9hUvsSwvSu0Y-WIj0t9jlcRw1WMUNU6I/viewform) | Biznis Inovacioni Centar Kragujevac | 10 June 2021 |
 | [Audio Technologies Hackathon](https://westernbalkanstartups.net/summer-audio) | online | 27th May 2021 |
