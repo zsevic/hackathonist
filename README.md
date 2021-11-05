@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [SICEF hackathon](https://hakaton.sicef.info/) | Faculty of Electronic Engineering (Niš) | 5-7 November 2021 |
 | [NLB Group Hackathon 2021 - Open Finance](https://www.nlb.si/hackathon-2021-open-finance) | online | 12-29 November 2021 |
+| [Hakaton za srednjoškolce 4.0](https://hzs.fonis.rs/4.0/#/) | FON | 11-12 December 2021 |
 
 #### :computer: Recent hackathons
 
