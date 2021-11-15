@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [NLB Group Hackathon 2021 - Open Finance](https://www.nlb.si/hackathon-2021-open-finance) | online | 12-29 November 2021 |
+| [ABB Robo Challange](https://brandnewengineers.rs/) | ETF/online | 27th November 2021 |
 | [barKod hackathon](https://bar-kod.rs/) | PMF Novi Sad | 27th November 2021 |
 | [Hakaton za srednjoškolce 4.0](https://hzs.fonis.rs/4.0/#/) | FON | 11-12 December 2021 |
 
