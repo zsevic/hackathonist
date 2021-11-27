@@ -5,6 +5,7 @@
 | [NLB Group Hackathon 2021 - Open Finance](https://www.nlb.si/hackathon-2021-open-finance) | online | 12-29 November 2021 |
 | [ABB Robo Challange](https://brandnewengineers.rs/) | ETF/online | 27th November 2021 |
 | [barKod hackathon](https://bar-kod.rs/) | PMF Novi Sad | 27th November 2021 |
+| [5 dana u oblacima](https://5danauoblacima.com/) | online | 7-11 December 2021 |
 | [Artificial Intelligence BattleGround 4.0](https://aibg.best.rs/) | Metropolitan University | 10-11 December 2021 |
 | [Merkle Female Hackathon 2021](https://merkleinc.ch/en/topics-trends/event/2021/merkle-%20female-hackathon-belgrade) | online | 11th December 2021 |
 | [Hakaton za srednjoškolce 4.0](https://hzs.fonis.rs/4.0/#/) | FON | 11-12 December 2021 |
