@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [FON hakaton](https://hakaton.fonis.rs/2022/) | FON | 12-13 March 2022 |
+| [Matf hackathon](https://sumamatf.rs/hakaton_2022) | online | 9-10 April 2022 |
 
 #### :computer: Recent hackathons
 
