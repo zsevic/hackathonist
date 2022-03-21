@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [EESTech Challenge 2022](http://www.eestecns.org/2022/03/10/eestech-challenge-2022/) | Univerzitet u Novom Sadu | 2-3 April 2022 |
 | [Matf hackathon](https://sumamatf.rs/hakaton_2022) | online | 9-10 April 2022 |
+| [Think Green](https://docs.google.com/forms/d/1zV0lceBLIYRVXVXefMidl5gVTipat14qtVmX078c5io/viewform?ts=6230b108&edit_requested=true) | Naučno-tehnološki park Beograd | 13-15 April 2022 |
 
 #### :computer: Recent hackathons
 
