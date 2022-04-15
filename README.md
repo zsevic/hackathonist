@@ -8,6 +8,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Hakaton vol.01](http://www.ftn.kg.ac.rs/vest-682) | FTN Čačak | 9-10 April 2022 |
 | [Matf hackathon](https://sumamatf.rs/hakaton_2022) | online | 9-10 April 2022 |
 | [EESTech Challenge 2022](http://www.eestecns.org/2022/03/10/eestech-challenge-2022/) | Univerzitet u Novom Sadu | 2-3 April 2022 |
 | [FON hakaton](https://hakaton.fonis.rs/2022/) | FON | 12-13 March 2022 |
