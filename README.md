@@ -2,12 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Think Green](https://docs.google.com/forms/d/1zV0lceBLIYRVXVXefMidl5gVTipat14qtVmX078c5io/viewform?ts=6230b108&edit_requested=true) | Naučno-tehnološki park Beograd | 13-15 April 2022 |
+| [AIBG Nis 1.0](https://aibg.bestnis.rs/) | Univerzitet Metropolitan Niš | 7-8 May 2022 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Think Green](https://docs.google.com/forms/d/1zV0lceBLIYRVXVXefMidl5gVTipat14qtVmX078c5io/viewform?ts=6230b108&edit_requested=true) | Naučno-tehnološki park Beograd | 13-15 April 2022 |
 | [Hakaton vol.01](http://www.ftn.kg.ac.rs/vest-682) | FTN Čačak | 9-10 April 2022 |
 | [Matf hackathon](https://sumamatf.rs/hakaton_2022) | online | 9-10 April 2022 |
 | [EESTech Challenge 2022](http://www.eestecns.org/2022/03/10/eestech-challenge-2022/) | Univerzitet u Novom Sadu | 2-3 April 2022 |
