@@ -2,8 +2,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [DesCon 7.0](https://descon.me/2022/) | Impact Hub Belgrade | 28-29 May 2022 |
 | [Zeleni Hakaton](https://euinfo.civicatalyst.org/greenhackaton) | Naučno-tehnološki park Novi Sad | 27-29 May 2022 |
+| [DesCon 7.0](https://descon.me/2022/) | Impact Hub Belgrade | 28-29 May 2022 |
 
 #### :computer: Recent hackathons
 
