@@ -2,12 +2,14 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [AIBG Nis 1.0](https://aibg.bestnis.rs/) | Univerzitet Metropolitan Niš | 7-8 May 2022 |
+| [Zeleni Hakaton](https://euinfo.civicatalyst.org/greenhackaton) | Naučno-tehnološki park Novi Sad | 27-29 May 2022 |
+
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [AIBG Nis 1.0](https://aibg.bestnis.rs/) | Univerzitet Metropolitan Niš | 7-8 May 2022 |
 | [Think Green](https://docs.google.com/forms/d/1zV0lceBLIYRVXVXefMidl5gVTipat14qtVmX078c5io/viewform?ts=6230b108&edit_requested=true) | Naučno-tehnološki park Beograd | 13-15 April 2022 |
 | [Hakaton vol.01](http://www.ftn.kg.ac.rs/vest-682) | FTN Čačak | 9-10 April 2022 |
 | [Matf hackathon](https://sumamatf.rs/hakaton_2022) | online | 9-10 April 2022 |
