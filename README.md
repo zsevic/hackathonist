@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [AIBG Nis 1.0](https://aibg.bestnis.rs/) | Univerzitet Metropolitan Niš | 7-8 May 2022 |
+| [DesCon 7.0](https://descon.me/2022/) | Impact Hub Belgrade | 28-29 May 2022 |
 
 #### :computer: Recent hackathons
 
