@@ -2,12 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [TECH4HEALTH](https://tech4health.rs/) | ICT Hub | 16-18 September 2022 |
+| [Payten Hackathon](https://www.payten-hakaton.rs/) | Milutina Milankovića 19g | 25-27 October 2022 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [TECH4HEALTH](https://tech4health.rs/) | ICT Hub | 16-18 September 2022 |
 | [DesCon 7.0](https://descon.me/2022/) | Impact Hub Belgrade | 28-29 May 2022 |
 | [Zeleni Hakaton](https://euinfo.civicatalyst.org/greenhackaton) | Naučno-tehnološki park Novi Sad | 27-29 May 2022 |
 | [AIBG Nis 1.0](https://aibg.bestnis.rs/) | Univerzitet Metropolitan Niš | 7-8 May 2022 |
