@@ -7,6 +7,8 @@
 | [Payten Hackathon](https://www.payten-hakaton.rs/) | Milutina Milankovića 19g | 29th November - 1st December 2022 |
 | [DigitalYOu hackathon](http://www.connect-international.org/2022/08/21/digital-you-hackathon-call-for-participants/) | Belgrade | 11-15 December 2022 |
 
+> 💡 Using React on daily basis? FishingBooker is looking for Frontend Engineer, apply [here](https://app.recrooit.com/jobs/52544fc5-667d-45e9-9b09-bcb045f0e745/software-engineer-frontend?r=ef301682).
+
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
