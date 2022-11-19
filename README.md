@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Code 0:32](https://code032.rs/) | NTP Čačak | 18-19 November 2022 |
 | [Payten Hackathon](https://www.payten-hakaton.rs/) | Milutina Milankovića 19g | 29th November - 1st December 2022 |
 | [Tenderly Blockchain Hackathon](https://brandnewengineers.rs/) | Adventure hub, Beograd | 3-4 December 2022 |
 | [DigitalYOu hackathon](http://www.connect-international.org/2022/08/21/digital-you-hackathon-call-for-participants/) | Belgrade | 11-15 December 2022 |
@@ -13,6 +12,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Code 0:32](https://code032.rs/) | NTP Čačak | 18-19 November 2022 |
 | [SICEF hackathon #8](https://hakaton.sicef.info/) | Elektronski fakultet/NTP Niš | 4-6 November 2022 |
 | [Code for a Cause 5](https://www.vegait.rs/media-center/corporate-social-responsibility/code-for-a-cause-5-united-for-the-community) | | 14-16 October 2021 |
 | [TECH4HEALTH](https://tech4health.rs/) | ICT Hub | 16-18 September 2022 |
