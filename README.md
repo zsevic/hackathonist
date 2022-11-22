@@ -15,7 +15,8 @@
 | --------- | -------- | ---- |
 | [Code 0:32](https://code032.rs/) | NTP Čačak | 18-19 November 2022 |
 | [SICEF hackathon #8](https://hakaton.sicef.info/) | Elektronski fakultet/NTP Niš | 4-6 November 2022 |
-| [Code for a Cause 5](https://www.vegait.rs/media-center/corporate-social-responsibility/code-for-a-cause-5-united-for-the-community) | | 14-16 October 2021 |
+| [OpenADR & UEGOS hackathon](https://forms.office.com/Pages/ResponsePage.aspx?id=tll7Yo6iu0WxXYeMa4iPqNG_YiAk4I1Cs4qLfnH_cDxUQ0c5RzcyOURBVU42MDI4REdDSkNKMDhQSC4u) | online | 3-4 November 2022 |
+| [Code for a Cause 5](https://www.vegait.rs/media-center/corporate-social-responsibility/code-for-a-cause-5-united-for-the-community) | | 14-16 October 2022 |
 | [TECH4HEALTH](https://tech4health.rs/) | ICT Hub | 16-18 September 2022 |
 | [DesCon 7.0](https://descon.me/2022/) | Impact Hub Belgrade | 28-29 May 2022 |
 | [Zeleni Hakaton](https://euinfo.civicatalyst.org/greenhackaton) | Naučno-tehnološki park Novi Sad | 27-29 May 2022 |
