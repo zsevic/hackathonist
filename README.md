@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [GIZ RE-Hakaton](https://rehack.rs/) | Naučno-tehnološki park, Novi Sad | 26-27 November 2022 |
 | [Payten Hackathon](https://www.payten-hakaton.rs/) | Milutina Milankovića 19g | 29th November - 1st December 2022 |
 | [Tenderly Blockchain Hackathon](https://brandnewengineers.rs/) | Adventure hub, Beograd | 3-4 December 2022 |
 | [Artificial Intelligence BattleGround 5.0](https://aibg.best.rs/) | | 9-10 December 2022 |
