@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [House of Web3 hackathon](https://lu.ma/ev4d2edw) | House of Web3 | 3-11 December 2022 |
 | [DigitalYOu hackathon](http://www.connect-international.org/2022/08/21/digital-you-hackathon-call-for-participants/) | Belgrade | 11-15 December 2022 |
 | [Merkle Female Hackathon 2022](https://merkleinc.ch/en/topics-trends/event/2022/join-us-merkle-female-hackathon-2022) | Merkle | 17th December 2022 |
 
@@ -12,6 +11,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [House of Web3 hackathon](https://lu.ma/ev4d2edw) | House of Web3 | 3-11 December 2022 |
 | [Artificial Intelligence BattleGround 5.0](https://aibg.best.rs/) | | 9-10 December 2022 |
 | [Tenderly Blockchain Hackathon](https://brandnewengineers.rs/) | Adventure hub, Beograd | 3-4 December 2022 |
 | [Payten Hackathon](https://www.payten-hakaton.rs/) | Milutina Milankovića 19g | 29th November - 1st December 2022 |
