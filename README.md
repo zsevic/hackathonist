@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [barKod v2](https://bar-kod.rs/) | Novi Sad | 24-25 February 2023 |
+| [Gamers never sleep hackathon](https://www.metropolitan.ac.rs/dogadjaji/gamers-never-sleep-hackathon-powered-by-guarana-mad-head-games-na-univerzitetu-metropolitan/) | Metropolitan University (Belgrade, Niš) | 4-5 March 2023 |
 | [Hakaton&Mejkaton](https://docs.google.com/forms/d/e/1FAIpQLSfrQXFmFrBqUOy1TwVMiLzIVDN8XLfCnBgpsaNx7kqVkD8BqA/viewform) | Naučno-tehnološki park Niš | 18-19 March 2023 |
 | [NFT Gaming Hackathon](https://nftbelgrade.com/) | Belgrade | 2-3 June 2023 |
 
