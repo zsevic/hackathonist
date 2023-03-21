@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [nf-core hackathon](https://nf-co.re/events/2023/hackathon-march-2023) | APIS Assay Technologies - Startit Centar	| 27-29 March 2023 |
+| [MATF Hackathon 2023](https://sumamatf.rs/hakaton_2023) | Matematički fakultet, Svetog Nikole 39 | 8-9 April 2023 |
 | [NFT Gaming Hackathon](https://nftbelgrade.com/) | Belgrade | 2-3 June 2023 |
 
 > 💡 Using JavaScript on daily basis? ESA Gaming is looking for JavaScript Front-end Game Developer, apply [here](https://app.recrooit.com/jobs/00334ed0-a73b-43ef-9aa0-a7b5272dbb50/javascript-front-end-game-developer?r=ef301682).
