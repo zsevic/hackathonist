@@ -5,9 +5,6 @@
 | [MATF Hackathon 2023](https://sumamatf.rs/hakaton_2023) | Matematički fakultet, Svetog Nikole 39 | 8-9 April 2023 |
 | [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-6 June 2023 |
 
-> 💡 Using JavaScript on daily basis? ESA Gaming is looking for JavaScript Front-end Game Developer, apply [here](https://app.recrooit.com/jobs/00334ed0-a73b-43ef-9aa0-a7b5272dbb50/javascript-front-end-game-developer?r=ef301682).
-
-
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
