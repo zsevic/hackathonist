@@ -2,13 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [MATF Hackathon 2023](https://sumamatf.rs/hakaton_2023) | Matematički fakultet, Svetog Nikole 39 | 8-9 April 2023 |
 | [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-6 June 2023 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [MATF Hackathon 2023](https://sumamatf.rs/hakaton_2023) | Matematički fakultet, Svetog Nikole 39 | 8-9 April 2023 |
 | [nf-core hackathon](https://nf-co.re/events/2023/hackathon-march-2023) | APIS Assay Technologies - Startit Centar	| 27-29 March 2023 |
 | [Hakaton&Mejkaton](https://docs.google.com/forms/d/e/1FAIpQLSfrQXFmFrBqUOy1TwVMiLzIVDN8XLfCnBgpsaNx7kqVkD8BqA/viewform) | Naučno-tehnološki park Niš | 18-19 March 2023 |
 | [Artificial Intelligence BattleGround v3.0](https://aibg.bestns.org.rs/) |  Ewa IT Hub, Novi Sad | 18-19 March 2023 |
