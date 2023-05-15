@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech Talk hub | 13-14 May 2023 |
 | [LLM hakaton](https://startit.rs/prijavite-se-na-prvi-llm-hakaton-u-srbiji-prijave-do-25-maja/) | Startit Centar Beograd | 2-4 June 2023 |
 | [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-6 June 2023 |
 
@@ -10,6 +9,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech Talk hub | 13-14 May 2023 |
 | [MATF Hackathon 2023](https://sumamatf.rs/hakaton_2023) | Matematički fakultet, Svetog Nikole 39 | 8-9 April 2023 |
 | [nf-core hackathon](https://nf-co.re/events/2023/hackathon-march-2023) | APIS Assay Technologies - Startit Centar	| 27-29 March 2023 |
 | [Hakaton&Mejkaton](https://docs.google.com/forms/d/e/1FAIpQLSfrQXFmFrBqUOy1TwVMiLzIVDN8XLfCnBgpsaNx7kqVkD8BqA/viewform) | Naučno-tehnološki park Niš | 18-19 March 2023 |
