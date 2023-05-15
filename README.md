@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech Talk hub | 13-14 May 2023 |
+| [LLM hakaton](https://startit.rs/prijavite-se-na-prvi-llm-hakaton-u-srbiji-prijave-do-25-maja/) | Startit Centar Beograd | 2-4 June 2023 |
 | [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-6 June 2023 |
 
 #### :computer: Recent hackathons
