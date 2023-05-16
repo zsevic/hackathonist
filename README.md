@@ -3,7 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [LLM hakaton](https://startit.rs/prijavite-se-na-prvi-llm-hakaton-u-srbiji-prijave-do-25-maja/) | Startit Centar Beograd | 2-4 June 2023 |
-| [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-6 June 2023 |
+| [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-7 June 2023 |
 
 #### :computer: Recent hackathons
 
