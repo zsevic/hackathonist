@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [NS SMART Hakaton](https://ntpns.rs/2023/05/24/ns-smart-hakaton-23-25-jun-2023/) | Naučno tehnološki park, Novi Sad | 23-25 June 2023 |
+| [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
 
 #### :computer: Recent hackathons
 
