@@ -2,13 +2,13 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [NS SMART Hakaton](https://ntpns.rs/2023/05/24/ns-smart-hakaton-23-25-jun-2023/) | Naučno tehnološki park, Novi Sad | 23-25 June 2023 |
 | [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [NS SMART Hakaton](https://ntpns.rs/2023/05/24/ns-smart-hakaton-23-25-jun-2023/) | Naučno tehnološki park, Novi Sad | 23-25 June 2023 |
 | [ETH Belgrade 2023 Hackathon](https://ethbelgrade.rs/#hackathon) | Belgrade | 5-7 June 2023 |
 | [LLM hakaton](https://startit.rs/prijavite-se-na-prvi-llm-hakaton-u-srbiji-prijave-do-25-maja/) | Startit Centar Beograd | 2-4 June 2023 |
 | [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech Talk hub | 13-14 May 2023 |
