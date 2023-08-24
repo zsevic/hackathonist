@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
+| [Digihack](https://www.fondigital.org/hackathon/) | Connect The Dots (Dedinje, Beograd) | 23-24 September 2023 |
 
 #### :computer: Recent hackathons
 
