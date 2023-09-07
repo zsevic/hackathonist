@@ -4,6 +4,7 @@
 | --------- | -------- | ---- |
 | [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
 | [Digihack](https://www.fondigital.org/hackathon/) | Connect The Dots (Dedinje, Beograd) | 23-24 September 2023 |
+| [RISC-V Hackaton](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
 
 #### :computer: Recent hackathons
 
