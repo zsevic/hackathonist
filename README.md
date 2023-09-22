@@ -3,6 +3,7 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Digihack](https://www.fondigital.org/hackathon/) | Connect The Dots (Dedinje, Beograd) | 23-24 September 2023 |
+| [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech-Talk Hub, Beograd | 14-15 October 2023 |
 | [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
 
 #### :computer: Recent hackathons
