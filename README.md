@@ -2,13 +2,14 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech-Talk Hub, Beograd | 14-15 October 2023 |
 | [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
+| [TADHack Belgrade 2023](https://tadhack.com/2023/global/tadhack-belgrade/) | VIG Plaza | 21-22 October 2023 |
 
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech-Talk Hub, Beograd | 14-15 October 2023 |
 | [Digihack](https://www.fondigital.org/hackathon/) | Connect The Dots (Dedinje, Beograd) | 23-24 September 2023 |
 | [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
 | [NS SMART Hakaton](https://ntpns.rs/2023/05/24/ns-smart-hakaton-23-25-jun-2023/) | Naučno tehnološki park, Novi Sad | 23-25 June 2023 |
