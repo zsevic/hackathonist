@@ -5,6 +5,8 @@
 | [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
 | [TADHack Belgrade 2023](https://tadhack.com/2023/global/tadhack-belgrade/) | VIG Plaza | 21-22 October 2023 |
 
+> :arrow_right: Looking for a job as a Front-end engineer? Apply [here](https://app.recrooit.com/jobs/61fc33a8-beb1-40d1-aa53-1524bacf2d09/frontend-engineer-m-f-d-80-100-?r=ef301682).
+
 #### :computer: Recent hackathons
 
 | Hackathon | Location | Date |
