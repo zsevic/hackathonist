@@ -2,8 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
-| [TADHack Belgrade 2023](https://tadhack.com/2023/global/tadhack-belgrade/) | VIG Plaza | 21-22 October 2023 |
+| [Има на ћирилици](https://иманаћирилици.срб/) | online | 25-26 November 2023 |
 
 > :arrow_right: Looking for a job as a Front-end engineer? Apply [here](https://app.recrooit.com/jobs/61fc33a8-beb1-40d1-aa53-1524bacf2d09/frontend-engineer-m-f-d-80-100-?r=ef301682).
 
@@ -11,6 +10,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
+| [TADHack Belgrade 2023](https://tadhack.com/2023/global/tadhack-belgrade/) | VIG Plaza | 21-22 October 2023 |
 | [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech-Talk Hub, Beograd | 14-15 October 2023 |
 | [Digihack](https://www.fondigital.org/hackathon/) | Connect The Dots (Dedinje, Beograd) | 23-24 September 2023 |
 | [Programeri za građane](https://www.programerizagradjane.vegait.rs/) | Novi Sad | 15-17 September 2023 |
