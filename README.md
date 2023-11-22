@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [ABB Robo Challenge](https://brandnewengineers.rs/) | Elektrotehnički fakultet, Beograd | 18-19 November 2023 |
 | [Има на ћирилици](https://иманаћирилици.срб/) | online | 25-26 November 2023 |
 | [Mozzart Hackathon](https://brandnewengineers.rs/) | Mozzart, Belgrade | 1st December 2023 |
 | [NIS Hackathon](https://brandnewengineers.rs/) |   | 15-16 December 2023 |
@@ -13,6 +12,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [ABB Robo Challenge](https://brandnewengineers.rs/) | Elektrotehnički fakultet, Beograd | 18-19 November 2023 |
 | [RISC-V Hackathon](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023/) | ETF, Beograd | 21-22 October 2023 |
 | [TADHack Belgrade 2023](https://tadhack.com/2023/global/tadhack-belgrade/) | VIG Plaza | 21-22 October 2023 |
 | [The Great Hacka](https://docs.google.com/forms/d/e/1FAIpQLSe7k5fyrL1HeYFGhtUIx-OjYICurs72t6vPOL-VtqUZGVydGA/viewform) | Tech-Talk Hub, Beograd | 14-15 October 2023 |
