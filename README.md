@@ -2,7 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Pretpraznični hakaton](https://www.instagram.com/p/C0bbzjxs5j5/?igshid=ODhhZWM5NmIwOQ==) |   | 4-10 December 2023 |
 | [VirtualHack - NIS Hackathon](https://brandnewengineers.rs/) |   | 15-16 December 2023 |
 
 > :arrow_right: Looking for a job as a Front-end engineer? Apply [here](https://app.recrooit.com/jobs/61fc33a8-beb1-40d1-aa53-1524bacf2d09/frontend-engineer-m-f-d-80-100-?r=ef301682).
@@ -11,6 +10,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Pretpraznični hakaton](https://www.instagram.com/p/C0bbzjxs5j5/?igshid=ODhhZWM5NmIwOQ==) |   | 4-10 December 2023 |
 | [Mozzart Hackathon](https://brandnewengineers.rs/) | Mozzart, Belgrade | 1st December 2023 |
 | [Има на ћирилици](https://иманаћирилици.срб/) | online | 25-26 November 2023 |
 | [ABB Robo Challenge](https://brandnewengineers.rs/) | Elektrotehnički fakultet, Beograd | 18-19 November 2023 |
