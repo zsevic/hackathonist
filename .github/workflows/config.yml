@@ -1,0 +1,14 @@
+name: Latest blog posts workflow
+on:
+    schedule:
+      - cron: '0 * * * *' 
+    workflow_dispatch: 
+jobs:
+    update-readme-with-blog:
+      name: Update README with latest blog posts
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            feed_list: "https://sevic.dev/rss.xml"
