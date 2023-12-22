@@ -9,11 +9,11 @@
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
 - [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
 - [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
 - [Creating a custom GPT version of ChatGPT](https://sevic.dev/notes/custom-gpt-chatgpt/)
 - [PDF generation with Gotenberg](https://sevic.dev/notes/pdf-generation-gotenberg/)
-- [Identifying missing variables in Handlebars templates](https://sevic.dev/notes/handlebars-template-missing-variables/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
