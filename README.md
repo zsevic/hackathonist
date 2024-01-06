@@ -9,11 +9,11 @@
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DrawingFX libjpeg fix on Linux](https://dusansimic.me/post/drawingfx-libjpeg-fix/)
-- [Fish shell abbreviations](https://dusansimic.me/post/fish-abbreviations/)
-- [Electron](https://dusansimic.me/post/electron/)
-- [Why I love RSS feeds](https://dusansimic.me/post/why-i-love-rss-feeds/)
-- [Messing Around With Golang](https://dusansimic.me/post/messing-around-with-golang/)
+- [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
+- [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
+- [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
+- [Creating a custom GPT version of ChatGPT](https://sevic.dev/notes/custom-gpt-chatgpt/)
+- [PDF generation with Gotenberg](https://sevic.dev/notes/pdf-generation-gotenberg/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
