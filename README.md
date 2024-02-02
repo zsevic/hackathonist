@@ -4,7 +4,7 @@
 | --------- | -------- | ---- |
 | [DevFest Hackathon](https://gdg.community.dev/events/details/google-gdg-beograd-presents-devfest-amp-hackathon/) |   | 16-17 December 2023 |
 
-> :arrow_right: Looking for a job as a Ruby on Rails Developer? Apply [here](https://app.recrooit.com/jobs/d35a6824-7146-4c40-ab80-9ee74d8e0caa/ruby-on-rails-developer?r=ef301682).
+> :arrow_right: Looking for a job as a Junior Ruby on Rails Developer? Apply [here](https://app.recrooit.com/jobs/d35a6824-7146-4c40-ab80-9ee74d8e0caa/ruby-on-rails-developer?r=ef301682).
 
 #### :memo: Latest posts
 
