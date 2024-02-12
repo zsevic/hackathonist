@@ -4,16 +4,16 @@
 | --------- | -------- | ---- |
 | [BizKod](https://bizkod.rs/) |   | 16-17 March 2024 |
 
-> :arrow_right: Looking for a job as a Front-end engineer? Apply [here](https://app.recrooit.com/jobs/61fc33a8-beb1-40d1-aa53-1524bacf2d09/frontend-engineer-m-f-d-80-100-?r=ef301682).
+> :arrow_right: Looking for a job as a Junior Ruby on Rails Developer? Apply [here](https://app.recrooit.com/jobs/d35a6824-7146-4c40-ab80-9ee74d8e0caa/ruby-on-rails-developer?r=ef301682).
 
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
+- [Web scraping with cheerio](https://sevic.dev/notes/scraping-cheerio/)
 - [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
 - [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
 - [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
-- [Creating a custom GPT version of ChatGPT](https://sevic.dev/notes/custom-gpt-chatgpt/)
-- [PDF generation with Gotenberg](https://sevic.dev/notes/pdf-generation-gotenberg/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
