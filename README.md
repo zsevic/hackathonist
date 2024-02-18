@@ -9,11 +9,11 @@
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ssh vol 1. - Git server SSH key configuration](https://dusansimic.me/post/ssh-01/)
 - [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
 - [Web scraping with cheerio](https://sevic.dev/notes/scraping-cheerio/)
 - [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
 - [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
-- [License key verification with Gumroad API](https://sevic.dev/notes/license-key-verification-gumroad-api/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
