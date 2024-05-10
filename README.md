@@ -2,18 +2,17 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Artificial Intelligence BattleGround v4.0](https://aibg.bestns.org.rs/) | Office Space for Work, Gajeva 1-3, 1.sprat, Novi Sad | 18-19 May 2024 |
 | [ETH Belgrade Hackathon](https://ethbelgrade.rs/hackathon) | Belgrade | 31 May - 2 June 2024 |
-
-> :arrow_right: Looking for a job as a Junior Ruby on Rails Developer? Apply [here](https://app.recrooit.com/jobs/d35a6824-7146-4c40-ab80-9ee74d8e0caa/ruby-on-rails-developer?r=ef301682).
 
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ssh vol 1. - Git server SSH key configuration](https://dusansimic.me/post/ssh-01/)
+- [Node Version Manager &lpar;nvm&rpar; overview](https://sevic.dev/notes/node-version-manager-nvm/)
+- [Debugging Node.js apps with Chrome DevTools debugger](https://sevic.dev/notes/debugging-nodejs-chrome-devtools/)
+- [Sending e-mails with Sendgrid](https://sevic.dev/notes/emails-sendgrid/)
 - [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
 - [Web scraping with cheerio](https://sevic.dev/notes/scraping-cheerio/)
-- [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
-- [Web scraping with jsdom](https://sevic.dev/notes/scraping-jsdom/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
