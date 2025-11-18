@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [ETH Belgrade hackathon](https://ethbelgrade.rs/hackathon) | Belgrade/online | 3-5 June 2025 |
+| [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 12-14 December 2025 |
 
 #### :memo: Latest posts
 
@@ -18,5 +18,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [ETH Belgrade hackathon](https://ethbelgrade.rs/hackathon) | Belgrade/online | 3-5 June 2025 |
 
 :arrow_right: [hackathons in 2024](2024.md)
