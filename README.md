@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 12-14 December 2025 |
+| [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18 April 2026 |
 
 #### :memo: Latest posts
 
@@ -18,6 +18,5 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [ETH Belgrade hackathon](https://ethbelgrade.rs/hackathon) | Belgrade/online | 3-5 June 2025 |
 
-:arrow_right: [hackathons in 2024](2024.md)
+:arrow_right: [hackathons in 2025](2025.md)
