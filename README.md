@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18 April 2026 |
+| [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
 
 #### :memo: Latest posts
 
