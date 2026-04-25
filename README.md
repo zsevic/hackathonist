@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
+| [ZenHire AI Coding Hackathon](https://hackathon2026april-landing.onrender.com/) | CDT Hub, Kneza Miloša 12 | 25-26 April 2026 |
 
 #### :memo: Latest posts
 
@@ -18,5 +18,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
 
 :arrow_right: [hackathons in 2025](2025.md)
