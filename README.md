@@ -19,5 +19,6 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
+| [FON Hakaton](https://hakaton.fonis.rs/) | FON | 4-5 April 2026 |
 
 :arrow_right: [hackathons in 2025](2025.md)
