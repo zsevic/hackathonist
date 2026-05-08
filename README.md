@@ -24,5 +24,8 @@
 | [ZenHire AI Coding Hackathon](https://hackathon2026april-landing.onrender.com/) | CDT Hub, Kneza Miloša 12 | 25-26 April 2026 |
 | [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
 | [FON Hakaton](https://hakaton.fonis.rs/) | FON | 4-5 April 2026 |
+| [ReDesign R&D for Her](https://ntpark.rs/en/2026/03/11/hackathon-redesign-rd-for-her-2/) | FON | 30-31 March 2026 |
+| [MATF Data Science Hackathon](https://www.matf.bg.ac.rs/matf-data-science-hackathon-2026-spoj-akademskog-znanja-i-savremene-industrije/) | Svetog Nikole 39 | 28-29 March 2026 |
+| [201:GO!](https://hub-201.com/events/201go/) | Kuća eUprave, Cyber District | 21-22 February 2026 |
 
 :arrow_right: [hackathons in 2025](2025.md)
