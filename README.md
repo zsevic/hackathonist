@@ -3,7 +3,6 @@
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
 | [Money Agent Hackathon](https://startit.rs/superteam-pravi-najveci-ai-hakaton-godine-5-rundi-120-ljudi-i-50-ideja-dodi-da-pravimo-agente-koji-sami-zaraduju-novac/) | Belgrade and Novi Sad | 24th April - 29th May 2026 |
-| [Context x Garaža AI Hackathon](https://context.community/hackathon) | Belgrade | 23-24 May 2026 |
 | [BIO4AI Hackathon](https://westernbalkans-infohub.eu/events/bio4ai-hackathon-at-belbi-2026/) | Metropol Palace | 9-10 June 2026 |
 | [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
 
@@ -15,6 +14,7 @@ Find a tech job at [JobRadar](https://jobradar.tech)
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Context x Garaža AI Hackathon](https://context.community/hackathon) | Belgrade | 23-24 May 2026 |
 | [ZenHire AI Coding Hackathon](https://hackathon2026april-landing.onrender.com/) | CDT Hub, Kneza Miloša 12 | 25-26 April 2026 |
 | [SuperPlane Hackathon](https://luma.com/hk4wt5jj) | Belgrade | 18th April 2026 |
 | [FON Hakaton](https://hakaton.fonis.rs/) | FON | 4-5 April 2026 |
