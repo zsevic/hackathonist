@@ -5,6 +5,7 @@
 | [Money Agent Hackathon](https://startit.rs/superteam-pravi-najveci-ai-hakaton-godine-5-rundi-120-ljudi-i-50-ideja-dodi-da-pravimo-agente-koji-sami-zaraduju-novac/) | Belgrade and Novi Sad | 24th April - 29th May 2026 |
 | [BIO4AI Hackathon](https://westernbalkans-infohub.eu/events/bio4ai-hackathon-at-belbi-2026/) | Metropol Palace | 9-10 June 2026 |
 | [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
+| [FinTech AI Hackathon](https://hack.garaza.org/) | Belgrade | 13-14 June 2026 |
 
 ##### Looking for a job?
 
