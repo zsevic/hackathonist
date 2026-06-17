@@ -2,8 +2,6 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
-| [FinTech AI Hackathon](https://hack.garaza.org/) | Belgrade | 13-14 June 2026 |
 | [SheSafe Online Hackathon](https://shesafe.hub-201.com/) | HUB 201 | 19-21 June 2026 |
 
 20% off on AI Engineer course - [Check it out](https://scrimba.com/?via=u02nb6)
@@ -12,6 +10,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
+| [FinTech AI Hackathon](https://hack.garaza.org/) | Belgrade | 13-14 June 2026 |
 | [BIO4AI Hackathon](https://westernbalkans-infohub.eu/events/bio4ai-hackathon-at-belbi-2026/) | Metropol Palace | 9-10 June 2026 |
 | [Money Agent Hackathon](https://startit.rs/superteam-pravi-najveci-ai-hakaton-godine-5-rundi-120-ljudi-i-50-ideja-dodi-da-pravimo-agente-koji-sami-zaraduju-novac/) | Belgrade and Novi Sad | 24th April - 29th May 2026 |
 | [Context x Garaža AI Hackathon](https://context.community/hackathon) | Belgrade | 23-24 May 2026 |
