@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Cursor Hackathon](https://hackathon.cursorserbia.com/) | Belgrade | 12th September 2026 |
+| [Grok Bot Serbia Hackathon](https://hackathon.cursorserbia.com/) | Belgrade | 12th September 2026 |
 
 20% off on AI Engineer course - [Check it out](https://scrimba.com/?via=u02nb6)
 
