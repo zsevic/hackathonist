@@ -2,7 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Grok Bot Serbia Hackathon](https://hackathon.cursorserbia.com/) | Belgrade | 12th September 2026 |
+| [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 7-8 November 2026 |
 
 20% off on AI Engineer course - [Check it out](https://scrimba.com/?via=u02nb6)
 
@@ -10,6 +10,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Grok Bot Serbia Hackathon](https://hackathon.cursorserbia.com/) | Belgrade | 12th September 2026 |
 | [SheSafe Online Hackathon](https://shesafe.hub-201.com/) | HUB 201 | 19-21 June 2026 |
 | [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
 | [FinTech AI Hackathon](https://hack.garaza.org/) | Belgrade | 13-14 June 2026 |
