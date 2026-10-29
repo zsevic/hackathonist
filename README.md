@@ -2,6 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Rivian Hakaton](https://bne.rs/) | Online/Rivian HQ | 6-7 November 2026 |
 | [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 7-8 November 2026 |
 
 20% off on AI Engineer course - [Check it out](https://scrimba.com/?via=u02nb6)
