@@ -2,8 +2,7 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
-| [Rivian Hakaton](https://bne.rs/) | Online/Rivian HQ | 6-7 November 2026 |
-| [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 7-8 November 2026 |
+| [SheSafe Online Regional Hackathon](https://docs.google.com/forms/d/e/1FAIpQLScDruqFbfLwx_RK37ZoRuHJc0qehJncDiVcIEojz4R-PygfaA/viewform) | Online | 26-29 November 2026 |
 
 20% off on AI Engineer course - [Check it out](https://scrimba.com/?via=u02nb6)
 
@@ -11,6 +10,8 @@
 
 | Hackathon | Location | Date |
 | --------- | -------- | ---- |
+| [Frontier Hackathon](https://hack.garaza.org/) | Belgrade | 7-8 November 2026 |
+| [Rivian Hakaton](https://bne.rs/) | Online/Rivian HQ | 6-7 November 2026 |
 | [Grok Bot Serbia Hackathon](https://hackathon.cursorserbia.com/) | Belgrade | 12th September 2026 |
 | [SheSafe Online Hackathon](https://shesafe.hub-201.com/) | HUB 201 | 19-21 June 2026 |
 | [Future Kids Hackathon 2026](https://futurekids.rs/) | UVC Šumice | 13-14 June 2026 |
